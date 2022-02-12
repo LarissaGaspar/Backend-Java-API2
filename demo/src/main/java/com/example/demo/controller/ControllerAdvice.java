@@ -1,5 +1,6 @@
 package com.example.demo.controller;
 
+//classe já criada para melhorias futuras
 import java.util.List;
 import java.util.stream.Collectors;
 
